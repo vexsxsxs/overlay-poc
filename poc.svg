@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="120">
+  <style>
+    #ov { position: fixed; top:0; left:0; width:100vw; height:100vh; background:red; z-index:99999; }
+  </style>
+  <foreignObject width="400" height="120">
+    <div xmlns="http://www.w3.org/1999/xhtml" id="ov">OVERLAY_SVG_FOREIGNOBJECT</div>
+  </foreignObject>
+  <rect width="400" height="120" fill="blue"/>
+</svg>
