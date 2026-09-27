@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"title":"<div style='position:fixed;top:0;left:0;width:100vw;height:100vh;background:red;z-index:99999'>OVERLAY_GEOJSON</div>","description":"<style>*{background:red}</style>"},"geometry":{"type":"Point","coordinates":[0,0]}}]}
